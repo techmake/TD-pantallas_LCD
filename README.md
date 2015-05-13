@@ -6,7 +6,9 @@
   
   * Material Utilizado:
     (1) Pantalla LCD: http://www.techmake.com/productos/lcds.html
+
     (1) Potenciometro: http://www.techmake.com/productos/components/potenciometros.html
+    
     (20) Cables Jumper Wire M/M de 20cm: http://www.techmake.com/00043.html
   
   * Conexiones:
