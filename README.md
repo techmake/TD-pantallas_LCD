@@ -1,5 +1,4 @@
-/* 
-  TECHMAKE DEMOS - LCDs (Liquid Crystal Displays)
+TECHMAKE DEMOS - LCDs (Liquid Crystal Displays)
   
   * Descripcion del DEMO:
     * Ejemplos de animacion, texto y caracteres especiales con una pantalla LCD + Arduino.
@@ -33,4 +32,3 @@ Visita http://www.arduino.cc para aprender mas sobre el Arduino.
 Visita http://www.sparkfun.com para conocer todo de SparkFun.
 
 Creado el 08/May/2015 por David S. Gonzalez P.
-*/
