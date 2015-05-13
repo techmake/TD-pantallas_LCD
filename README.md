@@ -5,6 +5,7 @@
     * Ejemplos de animacion, texto y caracteres especiales con una pantalla LCD + Arduino.
   
   * Material Utilizado:
+  
     (1) Pantalla LCD: http://www.techmake.com/productos/lcds.html
 
     (1) Potenciometro: http://www.techmake.com/productos/components/potenciometros.html
